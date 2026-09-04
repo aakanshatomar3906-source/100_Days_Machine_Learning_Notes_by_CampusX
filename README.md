@@ -1,2 +1,2 @@
-# 100_Days_Machine_Learning_Notes_by_CampusX
+# Machine_learning
 notes of machine learning 
